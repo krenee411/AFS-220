@@ -1,0 +1,58 @@
+    Epic             |        Epic                  |       Epic
+Backend(MongoDB)     |       Frontend               |      Styles
+-------------------------------------------------------------------------------------
+Login/User Account   |      Landing page            |       Professional Template
+Saved Articles       |      Auth Pages              |       Light/dark mode
+Rating System        |      Profile Page (settings) |       CSS Landing Page
+Media Buckets        |      Photo Gallery           |       Photo Landing Widget
+Comment System       |      Blog Page               |
+                            Google Ads              |
+
+
+
+Release Date: Week7 December 19, 2022
+
+Sprint Planning:
+Week1- 
+    Establish project
+    Elect a project manager  
+    Create Epics
+    Asign roles 
+    Create React App
+    Create MongoDB Database 
+    Set up database connection
+    Format Server
+
+Week2- 
+    (Team member local setup complete)
+ Create Schemas
+        Media
+        Account
+        Blog
+    Create Routes
+    Create components 
+        Auth
+        Profile
+        Gallery
+        Articles
+        Blog
+        Landing   
+
+Week4- 
+    (backend / frontend check and merge complete)
+    Create styles
+        Landing
+        Auth
+        Profile
+        Gallery
+        Blog
+
+Week5- 
+    (styles check and merge complete)
+    Begin trials 
+    Work out Bugs 
+    Finishing touches
+
+Week7- 
+Launch Day
+
